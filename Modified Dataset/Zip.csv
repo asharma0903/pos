@@ -1,0 +1,778 @@
+zipCode,city,state
+89595,Reno,Nevada
+78245,San Antonio,Texas
+45432,Dayton,Ohio
+21275,Baltimore,Maryland
+23203,Richmond,Virginia
+45233,Cincinnati,Ohio
+8650,Trenton,New Jersey
+38168,Memphis,Tennessee
+29225,Columbia,South Carolina
+93291,Visalia,California
+1905,Lynn,Massachusetts
+45807,Lima,Ohio
+33129,Miami,Florida
+94280,Sacramento,California
+32520,Pensacola,Florida
+92825,Anaheim,California
+80305,Boulder,Colorado
+24515,Lynchburg,Virginia
+85743,Tucson,Arizona
+85284,Tempe,Arizona
+72199,North Little Rock,Arkansas
+80930,Colorado Springs,Colorado
+97075,Beaverton,Oregon
+20397,Washington,District of Columbia
+56944,Washington,District of Columbia
+88589,El Paso,Texas
+90094,Los Angeles,California
+85005,Phoenix,Arizona
+62756,Springfield,Illinois
+91103,Pasadena,California
+33421,West Palm Beach,Florida
+80291,Denver,Colorado
+75392,Dallas,Texas
+12262,Albany,New York
+80005,Arvada,Colorado
+14683,Rochester,New York
+47812,Terre Haute,Indiana
+7310,Jersey City,New Jersey
+63104,Saint Louis,Missouri
+97271,Portland,Oregon
+60691,Chicago,Illinois
+22234,Arlington,Virginia
+74193,Tulsa,Oklahoma
+31296,Macon,Georgia
+2109,Boston,Massachusetts
+77293,Houston,Texas
+34665,Pinellas Park,Florida
+92844,Garden Grove,California
+39534,Biloxi,Mississippi
+80910,Colorado Springs,Colorado
+34643,Largo,Florida
+58106,Fargo,North Dakota
+78225,San Antonio,Texas
+74108,Tulsa,Oklahoma
+47737,Evansville,Indiana
+97255,Portland,Oregon
+77218,Houston,Texas
+30605,Athens,Georgia
+74156,Tulsa,Oklahoma
+98447,Tacoma,Washington
+77255,Houston,Texas
+59771,Bozeman,Montana
+47747,Evansville,Indiana
+27605,Raleigh,North Carolina
+33233,Miami,Florida
+27690,Raleigh,North Carolina
+85030,Phoenix,Arizona
+85035,Phoenix,Arizona
+33432,Boca Raton,Florida
+20580,Washington,District of Columbia
+10606,White Plains,New York
+78703,Austin,Texas
+93399,Bakersfield,California
+36641,Mobile,Alabama
+32255,Jacksonville,Florida
+72222,Little Rock,Arkansas
+19495,Valley Forge,Pennsylvania
+98195,Seattle,Washington
+34474,Ocala,Florida
+32526,Pensacola,Florida
+32230,Jacksonville,Florida
+15261,Pittsburgh,Pennsylvania
+43231,Columbus,Ohio
+64504,Saint Joseph,Missouri
+62718,Springfield,Illinois
+79118,Amarillo,Texas
+93386,Bakersfield,California
+28805,Asheville,North Carolina
+91913,Chula Vista,California
+64142,Kansas City,Missouri
+20010,Washington,District of Columbia
+83705,Boise,Idaho
+80243,Denver,Colorado
+22309,Alexandria,Virginia
+93786,Fresno,California
+55417,Minneapolis,Minnesota
+55579,Maple Plain,Minnesota
+30358,Atlanta,Georgia
+33320,Fort Lauderdale,Florida
+75287,Dallas,Texas
+6825,Fairfield,Connecticut
+68144,Omaha,Nebraska
+13224,Syracuse,New York
+24014,Roanoke,Virginia
+25711,Huntington,West Virginia
+58122,Fargo,North Dakota
+19115,Philadelphia,Pennsylvania
+20337,Washington,District of Columbia
+75799,Tyler,Texas
+85067,Phoenix,Arizona
+36670,Mobile,Alabama
+23436,Suffolk,Virginia
+90505,Torrance,California
+13205,Syracuse,New York
+14609,Rochester,New York
+61825,Champaign,Illinois
+24020,Roanoke,Virginia
+66210,Shawnee Mission,Kansas
+55448,Minneapolis,Minnesota
+16534,Erie,Pennsylvania
+6140,Hartford,Connecticut
+78426,Corpus Christi,Texas
+77005,Houston,Texas
+90035,Los Angeles,California
+99512,Anchorage,Alaska
+85020,Phoenix,Arizona
+24503,Lynchburg,Virginia
+20062,Washington,District of Columbia
+94177,San Francisco,California
+44710,Canton,Ohio
+36177,Montgomery,Alabama
+77065,Houston,Texas
+70179,New Orleans,Louisiana
+34276,Sarasota,Florida
+94616,Oakland,California
+98175,Seattle,Washington
+13251,Syracuse,New York
+2453,Waltham,Massachusetts
+2142,Cambridge,Massachusetts
+55114,Saint Paul,Minnesota
+23459,Virginia Beach,Virginia
+35810,Huntsville,Alabama
+23551,Norfolk,Virginia
+65898,Springfield,Missouri
+2216,Boston,Massachusetts
+33196,Miami,Florida
+77045,Houston,Texas
+62764,Springfield,Illinois
+31405,Savannah,Georgia
+48211,Detroit,Michigan
+29203,Columbia,South Carolina
+60208,Evanston,Illinois
+27105,Winston Salem,North Carolina
+22156,Springfield,Virginia
+76905,San Angelo,Texas
+76210,Denton,Texas
+31210,Macon,Georgia
+52245,Iowa City,Iowa
+52410,Cedar Rapids,Iowa
+27626,Raleigh,North Carolina
+89105,Las Vegas,Nevada
+92612,Irvine,California
+46015,Anderson,Indiana
+91125,Pasadena,California
+29220,Columbia,South Carolina
+55115,Saint Paul,Minnesota
+27425,Greensboro,North Carolina
+50315,Des Moines,Iowa
+83711,Boise,Idaho
+39296,Jackson,Mississippi
+31132,Atlanta,Georgia
+77493,Katy,Texas
+55146,Saint Paul,Minnesota
+76198,Fort Worth,Texas
+22903,Charlottesville,Virginia
+57105,Sioux Falls,South Dakota
+61709,Bloomington,Illinois
+60641,Chicago,Illinois
+14639,Rochester,New York
+46406,Gary,Indiana
+32309,Tallahassee,Florida
+73173,Oklahoma City,Oklahoma
+29625,Anderson,South Carolina
+77240,Houston,Texas
+46857,Fort Wayne,Indiana
+48956,Lansing,Michigan
+79165,Amarillo,Texas
+28225,Charlotte,North Carolina
+23509,Norfolk,Virginia
+70116,New Orleans,Louisiana
+75251,Dallas,Texas
+20883,Gaithersburg,Maryland
+73197,Oklahoma City,Oklahoma
+33972,Lehigh Acres,Florida
+20816,Bethesda,Maryland
+58505,Bismarck,North Dakota
+80951,Colorado Springs,Colorado
+23663,Hampton,Virginia
+20904,Silver Spring,Maryland
+55172,Saint Paul,Minnesota
+32885,Orlando,Florida
+64125,Kansas City,Missouri
+11205,Brooklyn,New York
+46699,South Bend,Indiana
+93704,Fresno,California
+98148,Seattle,Washington
+95973,Chico,California
+61110,Rockford,Illinois
+64136,Kansas City,Missouri
+40618,Frankfort,Kentucky
+7104,Newark,New Jersey
+10184,New York City,New York
+59623,Helena,Montana
+75236,Dallas,Texas
+53215,Milwaukee,Wisconsin
+7505,Paterson,New Jersey
+95894,Sacramento,California
+15279,Pittsburgh,Pennsylvania
+30392,Atlanta,Georgia
+30045,Lawrenceville,Georgia
+77343,Huntsville,Texas
+92878,Corona,California
+96154,South Lake Tahoe,California
+34629,Clearwater,Florida
+20067,Washington,District of Columbia
+75358,Dallas,Texas
+95155,San Jose,California
+94089,Sunnyvale,California
+93407,San Luis Obispo,California
+47705,Evansville,Indiana
+85010,Phoenix,Arizona
+10014,New York City,New York
+57188,Sioux Falls,South Dakota
+10459,Bronx,New York
+76011,Arlington,Texas
+2298,Boston,Massachusetts
+23324,Chesapeake,Virginia
+79182,Amarillo,Texas
+34981,Fort Pierce,Florida
+39216,Jackson,Mississippi
+78296,San Antonio,Texas
+53726,Madison,Wisconsin
+79940,El Paso,Texas
+18018,Bethlehem,Pennsylvania
+32919,Melbourne,Florida
+92862,Orange,California
+32941,Melbourne,Florida
+80995,Colorado Springs,Colorado
+32314,Tallahassee,Florida
+78769,Austin,Texas
+15266,Pittsburgh,Pennsylvania
+52809,Davenport,Iowa
+48242,Detroit,Michigan
+10099,New York City,New York
+25389,Charleston,West Virginia
+98158,Seattle,Washington
+12325,Schenectady,New York
+7112,Newark,New Jersey
+10090,New York City,New York
+90045,Los Angeles,California
+66225,Shawnee Mission,Kansas
+22111,Manassas,Virginia
+28220,Charlotte,North Carolina
+10160,New York City,New York
+20910,Silver Spring,Maryland
+68531,Lincoln,Nebraska
+76105,Fort Worth,Texas
+11431,Jamaica,New York
+23260,Richmond,Virginia
+19093,Philadelphia,Pennsylvania
+46202,Indianapolis,Indiana
+30368,Atlanta,Georgia
+90065,Los Angeles,California
+10454,Bronx,New York
+99205,Spokane,Washington
+50362,Des Moines,Iowa
+38181,Memphis,Tennessee
+34615,Clearwater,Florida
+79769,Odessa,Texas
+45490,Dayton,Ohio
+37665,Kingsport,Tennessee
+34102,Naples,Florida
+49518,Grand Rapids,Michigan
+61651,Peoria,Illinois
+53790,Madison,Wisconsin
+94302,Palo Alto,California
+80525,Fort Collins,Colorado
+98115,Seattle,Washington
+37416,Chattanooga,Tennessee
+22093,Ashburn,Virginia
+10079,New York City,New York
+94705,Berkeley,California
+60674,Chicago,Illinois
+24009,Roanoke,Virginia
+2119,Boston,Massachusetts
+40586,Lexington,Kentucky
+78732,Austin,Texas
+20557,Washington,District of Columbia
+30311,Atlanta,Georgia
+33961,Naples,Florida
+79934,El Paso,Texas
+23213,Richmond,Virginia
+79710,Midland,Texas
+86305,Prescott,Arizona
+33462,Lake Worth,Florida
+19178,Philadelphia,Pennsylvania
+50393,Des Moines,Iowa
+40205,Louisville,Kentucky
+28263,Charlotte,North Carolina
+20918,Silver Spring,Maryland
+78470,Corpus Christi,Texas
+11407,Jamaica,New York
+10203,New York City,New York
+21405,Annapolis,Maryland
+94207,Sacramento,California
+93740,Fresno,California
+74133,Tulsa,Oklahoma
+67236,Wichita,Kansas
+50706,Waterloo,Iowa
+12255,Albany,New York
+37995,Knoxville,Tennessee
+85311,Glendale,Arizona
+60663,Chicago,Illinois
+88006,Las Cruces,New Mexico
+47134,Jeffersonville,Indiana
+90040,Los Angeles,California
+98140,Seattle,Washington
+10060,New York City,New York
+80279,Denver,Colorado
+60614,Chicago,Illinois
+68517,Lincoln,Nebraska
+46221,Indianapolis,Indiana
+8104,Camden,New Jersey
+55590,Monticello,Minnesota
+14276,Buffalo,New York
+44305,Akron,Ohio
+80235,Denver,Colorado
+40266,Louisville,Kentucky
+89550,Reno,Nevada
+14624,Rochester,New York
+94159,San Francisco,California
+6726,Waterbury,Connecticut
+31165,Atlanta,Georgia
+45249,Cincinnati,Ohio
+32215,Jacksonville,Florida
+21684,Ridgely,Maryland
+61105,Rockford,Illinois
+20088,Washington,District of Columbia
+24029,Roanoke,Virginia
+99260,Spokane,Washington
+94611,Oakland,California
+62723,Springfield,Illinois
+30919,Augusta,Georgia
+28256,Charlotte,North Carolina
+33906,Fort Myers,Florida
+8603,Trenton,New Jersey
+11355,Flushing,New York
+20310,Washington,District of Columbia
+90831,Long Beach,California
+77276,Houston,Texas
+40210,Louisville,Kentucky
+2405,Brockton,Massachusetts
+32405,Panama City,Florida
+59806,Missoula,Montana
+85077,Phoenix,Arizona
+28215,Charlotte,North Carolina
+33448,Delray Beach,Florida
+35242,Birmingham,Alabama
+20215,Washington,District of Columbia
+79945,El Paso,Texas
+12210,Albany,New York
+74184,Tulsa,Oklahoma
+32505,Pensacola,Florida
+80299,Denver,Colorado
+22119,Merrifield,Virginia
+91499,Van Nuys,California
+84105,Salt Lake City,Utah
+17105,Harrisburg,Pennsylvania
+14205,Buffalo,New York
+32808,Orlando,Florida
+32209,Jacksonville,Florida
+92186,San Diego,California
+75379,Dallas,Texas
+44191,Cleveland,Ohio
+92645,Garden Grove,California
+73179,Oklahoma City,Oklahoma
+75221,Dallas,Texas
+66215,Shawnee Mission,Kansas
+37245,Nashville,Tennessee
+30301,Atlanta,Georgia
+31217,Macon,Georgia
+97405,Eugene,Oregon
+75353,Dallas,Texas
+85720,Tucson,Arizona
+92648,Huntington Beach,California
+93584,Lancaster,California
+34205,Bradenton,Florida
+10110,New York City,New York
+65105,Jefferson City,Missouri
+66205,Shawnee Mission,Kansas
+10175,New York City,New York
+23454,Virginia Beach,Virginia
+28305,Fayetteville,North Carolina
+51110,Sioux City,Iowa
+60646,Chicago,Illinois
+89074,Henderson,Nevada
+75044,Garland,Texas
+30316,Atlanta,Georgia
+7522,Paterson,New Jersey
+83727,Boise,Idaho
+63121,Saint Louis,Missouri
+96835,Honolulu,Hawaii
+23605,Newport News,Virginia
+37250,Nashville,Tennessee
+15225,Pittsburgh,Pennsylvania
+23705,Portsmouth,Virginia
+12205,Albany,New York
+32835,Orlando,Florida
+43635,Toledo,Ohio
+94622,Oakland,California
+20892,Bethesda,Maryland
+2458,Newton,Massachusetts
+33261,Miami,Florida
+10125,New York City,New York
+30328,Atlanta,Georgia
+32859,Orlando,Florida
+48335,Farmington,Michigan
+64130,Kansas City,Missouri
+10039,New York City,New York
+70805,Baton Rouge,Louisiana
+20268,Washington,District of Columbia
+33124,Miami,Florida
+19810,Wilmington,Delaware
+62711,Springfield,Illinois
+79116,Amarillo,Texas
+34611,Spring Hill,Florida
+44177,Cleveland,Ohio
+48295,Detroit,Michigan
+63116,Saint Louis,Missouri
+55436,Minneapolis,Minnesota
+33075,Pompano Beach,Florida
+50330,Des Moines,Iowa
+19196,Philadelphia,Pennsylvania
+94405,San Mateo,California
+55412,Minneapolis,Minnesota
+98442,Tacoma,Washington
+78783,Austin,Texas
+10034,New York City,New York
+52405,Cedar Rapids,Iowa
+15255,Pittsburgh,Pennsylvania
+48126,Dearborn,Michigan
+50320,Des Moines,Iowa
+20189,Dulles,Virginia
+2472,Watertown,Massachusetts
+30380,Atlanta,Georgia
+6705,Waterbury,Connecticut
+3105,Manchester,New Hampshire
+33345,Fort Lauderdale,Florida
+97240,Portland,Oregon
+94257,Sacramento,California
+68110,Omaha,Nebraska
+30343,Atlanta,Georgia
+66699,Topeka,Kansas
+48092,Warren,Michigan
+10131,New York City,New York
+27455,Greensboro,North Carolina
+48901,Lansing,Michigan
+85748,Tucson,Arizona
+46254,Indianapolis,Indiana
+14614,Rochester,New York
+46620,South Bend,Indiana
+87201,Albuquerque,New Mexico
+94291,Sacramento,California
+30066,Marietta,Georgia
+79989,El Paso,Texas
+33647,Tampa,Florida
+64179,Kansas City,Missouri
+43240,Columbus,Ohio
+55108,Saint Paul,Minnesota
+27615,Raleigh,North Carolina
+93034,Oxnard,California
+77035,Houston,Texas
+70820,Baton Rouge,Louisiana
+20226,Washington,District of Columbia
+32909,Palm Bay,Florida
+20046,Washington,District of Columbia
+20380,Washington,District of Columbia
+93094,Simi Valley,California
+68583,Lincoln,Nebraska
+19172,Philadelphia,Pennsylvania
+78235,San Antonio,Texas
+89145,Las Vegas,Nevada
+95405,Santa Rosa,California
+6538,New Haven,Connecticut
+29579,Myrtle Beach,South Carolina
+32204,Jacksonville,Florida
+35236,Birmingham,Alabama
+60681,Chicago,Illinois
+32891,Orlando,Florida
+98127,Seattle,Washington
+67215,Wichita,Kansas
+80255,Denver,Colorado
+79928,El Paso,Texas
+23668,Hampton,Virginia
+72215,Little Rock,Arkansas
+77234,Houston,Texas
+90081,Los Angeles,California
+20409,Washington,District of Columbia
+12305,Schenectady,New York
+37939,Knoxville,Tennessee
+6606,Bridgeport,Connecticut
+5609,Montpelier,Vermont
+95128,San Jose,California
+33028,Hollywood,Florida
+80935,Colorado Springs,Colorado
+33064,Pompano Beach,Florida
+38143,Memphis,Tennessee
+33141,Miami Beach,Florida
+11210,Brooklyn,New York
+97206,Portland,Oregon
+46295,Indianapolis,Indiana
+55551,Young America,Minnesota
+98506,Olympia,Washington
+85083,Phoenix,Arizona
+95210,Stockton,California
+11236,Brooklyn,New York
+76115,Fort Worth,Texas
+48919,Lansing,Michigan
+55573,Young America,Minnesota
+48670,Midland,Michigan
+11241,Brooklyn,New York
+32128,Daytona Beach,Florida
+28314,Fayetteville,North Carolina
+45470,Dayton,Ohio
+20414,Washington,District of Columbia
+78240,San Antonio,Texas
+85062,Phoenix,Arizona
+78415,Corpus Christi,Texas
+59112,Billings,Montana
+53785,Madison,Wisconsin
+99220,Spokane,Washington
+87190,Albuquerque,New Mexico
+10009,New York City,New York
+66622,Topeka,Kansas
+76305,Wichita Falls,Texas
+76598,Gatesville,Texas
+68105,Omaha,Nebraska
+33245,Miami,Florida
+96840,Honolulu,Hawaii
+1654,Worcester,Massachusetts
+20784,Hyattsville,Maryland
+88514,El Paso,Texas
+17622,Lancaster,Pennsylvania
+45238,Cincinnati,Ohio
+94250,Sacramento,California
+80204,Denver,Colorado
+95828,Sacramento,California
+80915,Colorado Springs,Colorado
+79705,Midland,Texas
+54313,Green Bay,Wisconsin
+32244,Jacksonville,Florida
+80228,Denver,Colorado
+34238,Sarasota,Florida
+85305,Glendale,Arizona
+22212,Arlington,Virginia
+73124,Oklahoma City,Oklahoma
+99709,Fairbanks,Alaska
+6912,Stamford,Connecticut
+78220,San Antonio,Texas
+85715,Tucson,Arizona
+10105,New York City,New York
+33018,Hialeah,Florida
+43204,Columbus,Ohio
+63110,Saint Louis,Missouri
+23285,Richmond,Virginia
+78250,San Antonio,Texas
+23514,Norfolk,Virginia
+97312,Salem,Oregon
+60158,Carol Stream,Illinois
+80209,Denver,Colorado
+20370,Washington,District of Columbia
+55905,Rochester,Minnesota
+75277,Dallas,Texas
+21747,Hagerstown,Maryland
+17140,Harrisburg,Pennsylvania
+92013,Carlsbad,California
+46814,Fort Wayne,Indiana
+37931,Knoxville,Tennessee
+24024,Roanoke,Virginia
+36610,Mobile,Alabama
+29240,Columbia,South Carolina
+68134,Omaha,Nebraska
+55564,Young America,Minnesota
+85205,Mesa,Arizona
+30336,Atlanta,Georgia
+11447,Jamaica,New York
+26505,Morgantown,West Virginia
+99215,Spokane,Washington
+37215,Nashville,Tennessee
+45999,Cincinnati,Ohio
+87592,Santa Fe,New Mexico
+89110,Las Vegas,Nevada
+48930,Lansing,Michigan
+89036,North Las Vegas,Nevada
+78210,San Antonio,Texas
+92121,San Diego,California
+85705,Tucson,Arizona
+44329,Akron,Ohio
+89115,Las Vegas,Nevada
+92805,Anaheim,California
+29805,Aiken,South Carolina
+79405,Lubbock,Texas
+214,Portsmouth,New Hampshire
+20404,Washington,District of Columbia
+93150,Santa Barbara,California
+39210,Jackson,Mississippi
+27705,Durham,North Carolina
+80638,Greeley,Colorado
+93709,Fresno,California
+44485,Warren,Ohio
+91199,Pasadena,California
+31998,Columbus,Georgia
+45403,Dayton,Ohio
+81010,Pueblo,Colorado
+94605,Oakland,California
+62525,Decatur,Illinois
+20591,Washington,District of Columbia
+87110,Albuquerque,New Mexico
+15215,Pittsburgh,Pennsylvania
+79188,Amarillo,Texas
+92505,Riverside,California
+60652,Chicago,Illinois
+94522,Concord,California
+22225,Arlington,Virginia
+18105,Allentown,Pennsylvania
+35225,Birmingham,Alabama
+17126,Harrisburg,Pennsylvania
+10029,New York City,New York
+11436,Jamaica,New York
+85754,Tucson,Arizona
+90810,Long Beach,California
+7195,Newark,New Jersey
+37924,Knoxville,Tennessee
+45426,Dayton,Ohio
+30306,Atlanta,Georgia
+62776,Springfield,Illinois
+73109,Oklahoma City,Oklahoma
+95064,Santa Cruz,California
+80270,Denver,Colorado
+32868,Orlando,Florida
+93721,Fresno,California
+95833,Sacramento,California
+29615,Greenville,South Carolina
+22096,Reston,Virginia
+18514,Scranton,Pennsylvania
+32595,Pensacola,Florida
+79491,Lubbock,Texas
+33673,Tampa,Florida
+71213,Monroe,Louisiana
+40581,Lexington,Kentucky
+33305,Fort Lauderdale,Florida
+79916,El Paso,Texas
+89120,Las Vegas,Nevada
+35405,Tuscaloosa,Alabama
+25775,Huntington,West Virginia
+49018,Battle Creek,Michigan
+78215,San Antonio,Texas
+37210,Nashville,Tennessee
+29411,Charleston,South Carolina
+73129,Oklahoma City,Oklahoma
+91406,Van Nuys,California
+45505,Springfield,Ohio
+92640,Fullerton,California
+77554,Galveston,Texas
+94137,San Francisco,California
+33405,West Palm Beach,Florida
+60686,Chicago,Illinois
+75265,Dallas,Texas
+35895,Huntsville,Alabama
+30092,Norcross,Georgia
+64082,Lees Summit,Missouri
+10464,Bronx,New York
+78754,Austin,Texas
+90189,Los Angeles,California
+94121,San Francisco,California
+45254,Cincinnati,Ohio
+32225,Jacksonville,Florida
+45203,Cincinnati,Ohio
+78405,Corpus Christi,Texas
+64109,Kansas City,Missouri
+2203,Boston,Massachusetts
+53234,Milwaukee,Wisconsin
+95865,Sacramento,California
+21282,Baltimore,Maryland
+77505,Pasadena,Texas
+70183,New Orleans,Louisiana
+95113,San Jose,California
+76110,Fort Worth,Texas
+33615,Tampa,Florida
+23208,Richmond,Virginia
+55103,Saint Paul,Minnesota
+84170,Salt Lake City,Utah
+14220,Buffalo,New York
+2283,Boston,Massachusetts
+33325,Fort Lauderdale,Florida
+28230,Charlotte,North Carolina
+68164,Omaha,Nebraska
+20508,Washington,District of Columbia
+77806,Bryan,Texas
+33315,Fort Lauderdale,Florida
+57193,Sioux Falls,South Dakota
+40250,Louisville,Kentucky
+20551,Washington,District of Columbia
+3804,Portsmouth,New Hampshire
+95397,Modesto,California
+40225,Louisville,Kentucky
+93311,Bakersfield,California
+91520,Burbank,California
+84140,Salt Lake City,Utah
+10705,Yonkers,New York
+85725,Tucson,Arizona
+73190,Oklahoma City,Oklahoma
+10280,New York City,New York
+80940,Colorado Springs,Colorado
+80249,Denver,Colorado
+78285,San Antonio,Texas
+48224,Detroit,Michigan
+85246,Chandler,Arizona
+65805,Springfield,Missouri
+94042,Mountain View,California
+92191,San Diego,California
+27150,Winston Salem,North Carolina
+36689,Mobile,Alabama
+63131,Saint Louis,Missouri
+31106,Atlanta,Georgia
+33758,Clearwater,Florida
+83757,Boise,Idaho
+15235,Pittsburgh,Pennsylvania
+20540,Washington,District of Columbia
+77386,Spring,Texas
+48206,Detroit,Michigan
+46278,Indianapolis,Indiana
+19160,Philadelphia,Pennsylvania
+85297,Gilbert,Arizona
+85737,Tucson,Arizona
+33416,West Palm Beach,Florida
+33355,Fort Lauderdale,Florida
+47905,Lafayette,Indiana
+92196,San Diego,California
+39204,Jackson,Mississippi
+1610,Worcester,Massachusetts
+8695,Trenton,New Jersey
+89436,Sparks,Nevada
+48609,Saginaw,Michigan
+88574,El Paso,Texas
+54915,Appleton,Wisconsin
+85210,Mesa,Arizona
+92835,Fullerton,California
+39305,Meridian,Mississippi
+25709,Huntington,West Virginia
+97232,Portland,Oregon
+98481,Tacoma,Washington
+91186,Pasadena,California
+61605,Peoria,Illinois
+87121,Albuquerque,New Mexico
+34620,Clearwater,Florida
+11054,Port Washington,New York
+71208,Monroe,Louisiana
+45440,Dayton,Ohio
+78726,Austin,Texas
+24034,Roanoke,Virginia
+72118,North Little Rock,Arkansas
+83206,Pocatello,Idaho
+11220,Brooklyn,New York
+48258,Detroit,Michigan
+10292,New York City,New York
+70593,Lafayette,Louisiana
